@@ -1,0 +1,27 @@
+{
+  "name": "ds-algo-js",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshmishra708/ds-algo-js.git"
+  },
+  "author": "Hitesh Mishra",
+  "license": "ISC",
+  "keywords": [
+    "ds",
+    "algo",
+    "datastructures",
+    "algorithms",
+    "stack",
+    "queue"
+  ],
+  "bugs": {
+    "url": "https://github.com/hiteshmishra708/ds-algo-js/issues"
+  },
+  "homepage": "https://github.com/hiteshmishra708/ds-algo-js#readme"
+}
